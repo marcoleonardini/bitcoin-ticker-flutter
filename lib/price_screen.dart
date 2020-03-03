@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
 import 'coin_data.dart';
-import 'coin_data.dart';
 
 class PriceScreen extends StatefulWidget {
   @override
